@@ -1,0 +1,10 @@
+My Personal and Academic Goals for Next Year
+
+- Improve my backend development skills, especially in Django and SQL.
+- Launch the first public version of my startup platform, Crux.
+- Contribute to at least 2 open-source projects.
+- Complete ALX and CS50 programs successfully.
+- Build and publish 3 solid portfolio projects.
+- Help other learners by mentoring or writing tech tutorials.
+
+
