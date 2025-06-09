@@ -1,0 +1,2 @@
+So far in this course, I've learned how to work with basic shell scripting, use Git for version control, and navigate the command line more efficiently. I now understand how to create files, commit changes, and manage branches, which are essential skills for software development.
+
